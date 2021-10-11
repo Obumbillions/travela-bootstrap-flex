@@ -38,7 +38,8 @@
     display: none;
 }
 .card-img-overlay,h1{
-     margin-bottom: 10px;
+     font-size: 20px;
+     margin-bottom: 8px;
      color: white;
      
 }
